@@ -1,0 +1,13 @@
+.userPhoto {
+   width: 150px;
+   height: 150px;
+   border-radius: 50%;
+   border: none;
+   background-color: whitesmoke;
+   display: block;
+   margin: auto;
+}
+
+.userPhoto:hover {
+   cursor: pointer;
+}

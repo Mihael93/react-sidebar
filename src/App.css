@@ -1,0 +1,34 @@
+img {
+   display: block;
+   width: 150px;
+   height: 150px;
+   border-radius: 50%;
+   margin: 0 auto;
+}
+
+.col {
+   min-width: 300px;
+   max-width: 300px;
+   background-color: whitesmoke;
+}
+
+hr {
+   height: 1px;
+   color: #F0F0F6;
+}
+
+.wrapper-bar {
+   max-width: 220px;
+   margin: 0 auto;
+}
+
+ul {
+   list-style-type: none;
+   margin: 10px 0;
+}
+
+li {
+   margin: 5px;
+   letter-spacing: 1px;
+   color: darkolivegreen;
+}
